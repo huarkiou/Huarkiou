@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Huarkiou
-- 👀 I’m interested in playing games
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in p
+- 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on nothing
 
 <!---
