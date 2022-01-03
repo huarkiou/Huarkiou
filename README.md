@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Huarkiou
-- 👀 I’m interested in p
+- 👀 I’m interested in painting
 - 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on nothing
 
